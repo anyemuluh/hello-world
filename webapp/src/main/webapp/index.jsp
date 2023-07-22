@@ -1,3 +1,23 @@
+<style>
+  /* Style for labels */
+  label {
+    display: block;
+    margin-bottom: 5px; /* Optional: Add some spacing between labels */
+    font-weight: bold;
+  }
+
+  /* Style for input elements */
+  input {
+    display: block;
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px; /* Optional: Add some spacing between input elements */
+    box-sizing: border-box;
+  }
+</style>
+
+
+
 <form action="action_page.php">
   <div class="container">
     <h1>Register</h1>
